@@ -1,0 +1,120 @@
+[
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+    "category_id": "01",
+    "rating": "4.8",
+    "total_students": "356,869",
+    "title": "Pianoforall - Incredible New Way To Learn Piano & Keyboard",
+    "instructor": {
+      "name": "Robin Hall",
+      "last_updated": "6/2022",
+      "img": "https://img-c.udemycdn.com/user/200_H/5753906_1b3f_4.jpg"
+    },
+    "image_url": "https://media.istockphoto.com/photos/close-up-of-happy-womans-hand-playing-the-piano-in-the-morning-picture-id901538534?k=20&m=901538534&s=612x612&w=0&h=z0hbRKTSTtxMdT0BFo4vQU0iHkOHhewcwXhb8eUV8wM=",
+    "details": "Learn Piano in WEEKS not years. Play-By-Ear & learn to Read Music. Pop, Blues, Jazz, Ballads, Improvisation, Classical"
+  },
+
+  {
+    "_id": "0282e0e58a5c404fbd1526hs11c2abf0",
+    "category_id": "02",
+    "rating": "4.7",
+    "total_students": "258,538",
+    "title": "Complete Guitar Lessons System - Beginner to Advanced",
+    "instructor": {
+      "name": "Erich Andreas",
+      "last_updated": "3/2022",
+      "img": "https://img-c.udemycdn.com/user/200_H/603974_a5c2_3.jpg"
+    },
+    "image_url": "https://thumbs.dreamstime.com/b/full-size-photo-optimistic-short-hair-lady-play-guitar-wear-white-pullover-trousers-sneakers-isolated-yellow-full-size-photo-232100449.jpg",
+    "details": "All-in-one Guitar Course, Fingerstyle Guitar, Blues Guitar, Acoustic Guitar, Electric Guitar & Fingerpicking Guitarra"
+  },
+
+  {
+    "_id": "0282e0e58a5sk04fbd1526hs11c2ab91",
+    "category_id": "03",
+    "rating": "4.7",
+    "total_students": "95,475",
+    "title": "Music Theory Comprehensive Complete! (Parts 1, 2, & 3)",
+    "instructor": {
+      "name": "Jason Allen",
+      "last_updated": "4/2022",
+      "img": "https://img-c.udemycdn.com/user/200_H/913001_767b_3.jpg"
+    },
+    "image_url": "https://blog.landr.com/wp-content/uploads/2019/11/MusicTheory_feat.jpg",
+    "details": "A Complete College-Level Music Theory Curriculum. This edition of the course includes levels 1, 2, & 3."
+  },
+
+  {
+    "_id": "0282e0e58a5sk04fbd152djhs11c2abv6",
+    "category_id": "04",
+    "rating": "4.6",
+    "total_students": "51,337",
+    "title": "Music + Audio Production in Logic Pro X - The Complete Guide",
+    "instructor": {
+      "name": "Make Pro Music",
+      "last_updated": "8/2020",
+      "img": "https://img-c.udemycdn.com/user/200_H/13762822_c2ef_4.jpg"
+    },
+    "image_url": "https://d26oc3sg82pgk3.cloudfront.net/files/media/edit/image/45664/article_full%401x.jpg",
+    "details": "Become a master at using Logic Pro X | Understand music production | Learn to record, edit & mix audio to a pro standard"
+  },
+
+  {
+    "_id": "0282e0e58a5sk04fbd152dkhs11c2ab29",
+    "category_id": "05",
+    "rating": "4.3",
+    "total_students": "92,854",
+    "title": "Learn to play HARMONICA, the easiest instrument to pick up!",
+    "instructor": {
+      "name": "Ben Hewlett",
+      "last_updated": "3/2022",
+      "img": "https://img-c.udemycdn.com/user/200_H/2951312_126e_6.jpg"
+    },
+    "image_url": "https://www.musicianwave.com/wp-content/uploads/2022/01/Fun-Harmonica-Songs-in-C.jpg",
+    "details": "Ultimate diatonic harmonica lessons, blues, country music, rock; you will learn how to play on/off stage, solo/group"
+  },
+
+  {
+    "_id": "0282e0e58a5sk04fb7h52dkhs11c2abs4",
+    "category_id": "06",
+    "rating": "4.2",
+    "total_students": "58,954",
+    "title": "BECOME A GREAT SINGER: Your Complete Vocal Training System",
+    "instructor": {
+      "name": "Robert Lunte",
+      "last_updated": "4/2021",
+      "img": "https://img-c.udemycdn.com/user/200_H/33004532_5f6b_6.jpg"
+    },
+    "image_url": "https://www.musicianwave.com/wp-content/uploads/2022/05/Singers-with-the-Highest-Vocal-Range.jpg",
+    "details": "Immediately Improve Your Singing. (Any Level, Any Style)"
+  },
+
+  {
+    "_id": "0282e0e58a5sk04fb7g52dkhs11c2abx0",
+    "category_id": "07",
+    "rating": "4.7",
+    "total_students": "10,880",
+    "title": "The Ultimate Piano Chords Course - for Piano & Keyboard",
+    "instructor": {
+      "name": "Arthur Bird",
+      "last_updated": "1/2022",
+      "img": "https://img-c.udemycdn.com/user/200_H/25295806_0590_4.jpg"
+    },
+    "image_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/182FA/production/_110866099_gettyimages-905799292.jpg",
+    "details": "Learn piano the easy way! Play your favourite songs & even SING along, with this simple & thorough guide to piano chords"
+  },
+  {
+    "_id": "0282e0e58a5sk04fb7g52dkhs11c2ab3n",
+    "category_id": "08",
+    "rating": "4.6",
+    "total_students": "7,564",
+    "title": "Songwriting & Music Production In GarageBand- A Total Guide!",
+    "instructor": {
+      "name": "Dean Davis",
+      "last_updated": "9/2020",
+      "img": "https://img-c.udemycdn.com/user/200_H/12124392_1b1e_2.jpg"
+    },
+    "image_url": "https://edm.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTYwNDc1MjA3NTk1NzMwMjky/navigating-the-songwriting-process-and-staying-out-of-legal-trouble.jpg",
+    "details": "Learn how to use the powerful tools that GarageBand offers for creative songwriting and high quality music production!"
+  }
+]
