@@ -22,6 +22,10 @@ app.get('/courses', (req, res) => {
   res.send(courses);
 });
 
+app.get('/course', (req, res) => {
+  res.send(course);
+});
+
 app.listen(port, () => {
   console.log('Muzic Server running on port', port); 
 });
